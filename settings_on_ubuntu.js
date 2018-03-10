@@ -16,6 +16,11 @@
     // Always show the ESlint status bar item.
     "eslint.alwaysShowStatus": true,
     "prettier.singleQuote": true,
-    "eslint.enable": false,
+    "eslint.enable": true,
     "files.autoSave": "off",
+      // End with a newline.
+    "html.format.endWithNewline": true,
+    "files.associations": {
+    "*.js": "javascriptreact"
+    },
 }
